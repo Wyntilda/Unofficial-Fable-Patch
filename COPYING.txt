@@ -1,4 +1,4 @@
-bspatch.exe is licensed under the BSD Protective license, included
+bspatch.exe is licensed under the BSD Protection license, included
 in Patches\bsdiff-LICENSE.txt to remain compliant with its terms and
 conditions for copying and distribution.
 
