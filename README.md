@@ -1,10 +1,10 @@
-UNOFFICIAL FABLE PATCH v2.0
+# UNOFFICIAL FABLE PATCH v2.0
 
 This mod aims to fix every bug and inconsistency present in Fable: The
 Lost Chapters by any and all means available. Refer to CHANGELOG.txt
 for a verbose list of changes.
 
-PC installation instructions:
+**PC installation instructions:**
 
 1. On a clean, vanilla install of Fable, unpack the UFP archive to the
    root Fable folder (where Fable.exe is).
