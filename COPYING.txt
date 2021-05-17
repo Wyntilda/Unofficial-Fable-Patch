@@ -1,0 +1,28 @@
+bspatch.exe is licensed under the BSD Protective license, included
+in Patches\bsdiff-LICENSE.txt to remain compliant with its terms and
+conditions for copying and distribution.
+
+The following notice applies to all other content modifications:
+
+
+These are free and unencumbered assets released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute these assets, for any purpose, commercial or non-commercial,
+and by any means.
+
+In jurisdictions that recognise copyright laws, the author or authors
+of these assets dedicate any and all copyright interest in the assets
+to the public domain. We make this dedication for the benefit of the
+public at large and to the detriment of our heirs and successors. We
+intend this dedication to be an overt act of relinquishment in
+perpetuity of all present and future rights to these assets under
+copyright law.
+
+THE ASSETS ARE PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THE ASSETS INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE ASSETS.
