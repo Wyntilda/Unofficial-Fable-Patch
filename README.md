@@ -1,4 +1,4 @@
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DWyntilda%26type%3Dpledges&style=flat)](https://patreon.com/Wyntilda) [![Buy me a cuppa](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20cuppa-orange)](https://ko-fi.com/Wyntilda) [![Liberapay receiving](https://img.shields.io/liberapay/receives/Wyntilda?label=liberapay)](https://liberapay.com/Wyntilda)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DWyntilda%26type%3Dpledges&style=flat)](https://patreon.com/Wyntilda) [![Buy me a cuppa](https://img.shields.io/badge/ko--fi-Buy%20me%20a%20cuppa-orange)](https://ko-fi.com/Wyntilda) [![Liberapay receiving](https://img.shields.io/liberapay/receives/Wyntilda?label=liberapay)](https://liberapay.com/Wyntilda)
 # Unofficial Fable Patch
 
 This mod aims to fix every bug and inconsistency present in Fable: The
