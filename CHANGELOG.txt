@@ -1,3 +1,12 @@
+2.0-CURRENT CHANGELOG
+
+meta: remove changes to CShopDefs, MAIN_HERO_STATS, and DEFAULT_GLOBAL_DEFS
+  for inclusion in mods separate from the UFP, as these changes are simply
+  workarounds for exploits and inconsistencies that rebalance gameplay as
+  a side effect, which is incompatible with the current patch guidelines.
+  (TODO)
+
+
 2.0 CHANGELOG
 
 meta: Switched to bsdiff patches for the entire project.
