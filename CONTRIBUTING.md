@@ -9,3 +9,7 @@ The following guidelines for contributing are outlined in the spirit of maintain
  - If a bug can be fixed via a user-noticeable 'workaround' that does not directly address the bug itself, then it should not be considered a fix and should be distributed separately from the patch.
  - Community feedback should always be valued and prioritised.
  - All documentation should be clear and easy to understand for both end users and mod developers.
+ - All versions of the patch should be archived and made widely available.
+ - Permissions are to never retroactively change.
+ - While contribution to the UFP itself is preferred, outside derivatives and similar projects developed separately from the UFP should never be percieved as hostile in their intent or in any way direct competition to the UFP.
+ - No changes shall be pushed to the patch with the intent of breaking, overwriting, or otherwise harming other mods and mod authors for personal reasons.
