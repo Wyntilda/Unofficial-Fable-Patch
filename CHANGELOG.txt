@@ -1,8 +1,6 @@
 2.0 CHANGELOG
 
-meta: Switched to BPS patches for modification of LEVs and TNGs, now patching 
-      FinalAlbion.WAD directly for Xbox versions. PC will continue using loose 
-      files due to WAD compilation method limitations.
+meta: Switched to bsdiff patches for the entire project.
 
 game.bin: 3840 CREATURE_DEMON_DOOR_FACE_01
           3844 CREATURE_NW_DEMON_DOOR_FACE_01
